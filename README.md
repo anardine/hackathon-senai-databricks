@@ -1,4 +1,4 @@
-# Case do Hackathon (4h) — “Crédito Sustentável no Campus”
+# Case CoopCampus (4h) — “Crédito Sustentável no Campus”
 ## Contexto (história do negócio)
 Uma cooperativa financeira universitária (“CoopCampus”) quer oferecer microcrédito para estudantes e recém-formados (ex.: notebook, curso, moradia, transporte).
 O desafio: o orçamento é limitado e a inadimplência pode quebrar o programa. Ao mesmo tempo, negar crédito demais reduz impacto social e reputação.
@@ -80,15 +80,6 @@ application_id, prob_default, risk_band (A/B/C), recommended_action
 - MLOps completo (CI/CD, registry formal, monitoramento)
 - Dashboards sofisticados (pode ser gráfico no notebook)
 - Otimização pesada de performance
-
-## Definição de “sucesso” (critérios de avaliação)
-Sugestão de rubrica (100 pontos):
-- Clareza do problema e decisão proposta (20)
-- Qualidade do pipeline/dados (20)
-- Qualidade analítica/modelo (25)
-- Justificativa do trade-off (risco vs aprovação) (20)
-- Comunicação e reprodutibilidade (15)
-(notebook roda do zero, leitura clara, conclusão objetiva)
 
 ## Plano de execução (4 horas)
 - 0:00–0:20 — Briefing + escolha do Track + entendimento dos dados
